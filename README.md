@@ -49,7 +49,7 @@ function parseXMLByTagName() {
 
 ## Licence
 
-[MIT](https://github.com/taddaken3/html-parser-gas/blob/master/LICENCE)
+[MIT](https://github.com/taddaken3/html-parser-gas/master/LICENCE)
 
 ## Author
 
