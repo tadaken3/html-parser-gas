@@ -2,7 +2,9 @@
 
 parser is HTML/XML parser for Google Apps Script.
 
-Script ID:1Jrnqmfa6dNvBTzIgTeilzdo6zk0aUUhcXwLlQEbtkhaRR-fi5eAf4tBJ
+## Install
+
+Script ID: '1Jrnqmfa6dNvBTzIgTeilzdo6zk0aUUhcXwLlQEbtkhaRR-fi5eAf4tBJ'
 
 ## Example
 ```javascript
