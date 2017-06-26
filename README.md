@@ -4,7 +4,7 @@ parser is HTML/XML parser for Google Apps Script.
 
 ## Install
 
-`Script ID: 1Jrnqmfa6dNvBTzIgTeilzdo6zk0aUUhcXwLlQEbtkhaRR-fi5eAf4tBJ`
+Script ID :`1Jrnqmfa6dNvBTzIgTeilzdo6zk0aUUhcXwLlQEbtkhaRR-fi5eAf4tBJ`
 
 ## Example
 ```javascript
